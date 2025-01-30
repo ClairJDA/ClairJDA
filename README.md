@@ -1,4 +1,7 @@
-## Hi there 👋
+**Hello there** 🙂👋
+Welcome to my coding dojo! Here, I keep code from my learning journey and share the code I've developed along the way.
+- 🍀 I'm currently learning web & mobile development.
+- 🍀 I’m working with `.css`, `.html`, `.js`, `react`, `tailwind`, `next.js` and `flutter`.
 
 <!--
 **ClairJDA/ClairJDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
